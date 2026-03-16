@@ -1,0 +1,68 @@
+body{
+font-family: Arial;
+margin:0;
+background:#f4f4f4;
+}
+
+header{
+background:#2c3e50;
+color:white;
+padding:20px;
+text-align:center;
+}
+
+header input{
+margin-top:10px;
+padding:8px;
+width:200px;
+}
+
+.post-project{
+background:white;
+padding:20px;
+margin:20px;
+border-radius:5px;
+}
+
+.post-project input,
+.post-project textarea{
+width:100%;
+padding:10px;
+margin:10px 0;
+}
+
+button{
+background:#3498db;
+color:white;
+border:none;
+padding:10px 15px;
+cursor:pointer;
+}
+
+button:hover{
+background:#2980b9;
+}
+
+.projects{
+margin:20px;
+}
+
+.project-card{
+background:white;
+padding:15px;
+margin-bottom:15px;
+border-radius:5px;
+}
+
+.proposal{
+margin-top:10px;
+}
+
+.proposal input{
+padding:8px;
+width:70%;
+}
+
+.proposal button{
+padding:8px;
+}
